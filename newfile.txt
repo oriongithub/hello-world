@@ -1,0 +1,3 @@
+newfile.txt (with vi)
+newfile.txt (with vim)
+Some More Text
